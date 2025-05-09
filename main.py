@@ -1,13 +1,6 @@
 """
 Program: Random DNA Sequence Generator in FASTA Format
-Author: JJ
-Purpose:
-    This script generates a random DNA sequence based on user input and saves it to a FASTA-format file.
-    It also inserts the user's name at a random location in the sequence (ignored for statistics) and displays
-    the composition of the sequence in terms of nucleotide percentages and CG/AT ratio.
-
-Context of use:
-    Useful for bioinformatics learning, practicing parsing FASTA files, or generating dummy genetic data for simulation.
+Author: s26604
 """
 
 import random
